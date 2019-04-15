@@ -1,0 +1,60 @@
+EXERCISE 5:
+parameterized constructor was invoked for person
+paramerised constructor was invoked
+parameterized constructor was invoked for person
+parameterized constructor for faculty was invoked
+Press any key to continue . . .
+destructor for faculty was invoked
+destructor is invoked for person
+destructor for student was invoked
+destructor is invoked for person
+...........
+EXERCISE 6:
+c:\users\temp.domain.004\desktop\lab_inheritance_18l1174\lab_inheritance_18l1174\student_imp.cpp(31): error C2248: 'person::fname' : cannot access private member declared in class 'person'
+1>          c:\users\temp.domain.004\desktop\lab_inheritance_18l1174\lab_inheritance_18l1174\person.h(9) : see declaration of 'person::fname'
+1>          c:\users\temp.domain.004\desktop\lab_inheritance_18l1174\lab_inheritance_18l1174\person.h(7) : see declaration of 'person'
+1>c:\users\temp.domain.004\desktop\lab_inheritance_18l1174\lab_inheritance_18l1174\student_imp.cpp(31): error C2248: 'person::lname' : cannot access private member declared in class 'person'
+1>          c:\users\temp.domain.004\desktop\lab_inheritance_18l1174\lab_inheritance_18l1174\person.h(10) : see declaration of 'person::lname'
+1>          c:\users\temp.domain.004\desktop\lab_inheritance_18l1174\lab_inheritance_18l1174\person.h(7) : see declaration of 'person'
+..........................
+EXERCISE 7:
+parameterized constructor was invoked for person
+paramerised constructor was invoked
+parameterized constructor was invoked for person
+parameterized constructor for faculty was invoked
+name:TedThompson
+age:22
+cgpa:3.9
+name:RichardKarp
+age:45
+number of courses being taught2extention number:420
+Press any key to continue . . .
+destructor for faculty was invoked
+destructor is invoked for person
+destructor for student was invoked
+destructor is invoked for person
+..........................
+EXERCISE:8
+NO CHANGE IN OUTPUT
+parameterized constructor was invoked for person
+paramerised constructor was invoked
+parameterized constructor was invoked for person
+parameterized constructor for faculty was invoked
+name:TedThompson
+age:22
+cgpa:3.9
+name:RichardKarp
+age:45
+number of courses being taught2extention number:420
+.....
+EXERCISE:9
+parameterized constructor was invoked for person
+paramerised constructor was invoked
+parameterized constructor was invoked for person
+parameterized constructor for faculty was invoked
+name:TedThompson
+age:22
+cgpa:3.9
+name:RichardKarp
+age:45
+number of courses being taught2extention number:420
